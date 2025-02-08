@@ -1,0 +1,28 @@
+.services {
+  background-color: #ff6600;
+}
+
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    padding: 2rem 5%;
+  }
+
+  h1 {
+    text-align: center;
+    color: white;
+  }
+
+  .service-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    text-align: center;
+  }
+
+  .service-card:hover {
+    transform: scale(1.05);
+  }

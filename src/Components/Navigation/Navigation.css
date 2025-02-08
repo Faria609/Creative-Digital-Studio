@@ -1,0 +1,11 @@
+/* Navigation */
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 5%;
+    background: #ff6600;
+    color: white;
+    flex-direction: column;
+    text-align: center;
+
+  }
