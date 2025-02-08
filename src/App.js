@@ -21,7 +21,7 @@ function App() {
        <Navigation/>
        <HeroSection/>
        <Testimonials/>
-       {/* <Team/> */}
+       <Team/>
        <InquiryForm/>
        <Services/>
        <Portfolio/>

@@ -12,6 +12,16 @@ const teamMembers = [
     role: "Senior Developer",
     image: "/images/team2.jpg",
   },
+  {
+    name: "Emily Davis",
+    role: "Project Manager",
+    image: "/images/team3.jpg",
+  },
+  {
+    name: "Daniel Smith",
+    role: "UX/UI Specialist",
+    image: "/images/team4.jpg",
+  },
 ];
 
 const Team = () => {
